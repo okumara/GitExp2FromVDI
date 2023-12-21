@@ -1,1 +1,4 @@
-"5, 4, 3, 2, 1, Thunderbirds are GO!" 
+"Five, four, three, two, one, Thunderbirds are GO!"
+---------------------------------------------------
+
+to be continued...
